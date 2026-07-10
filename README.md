@@ -1,4 +1,4 @@
-# Projeto: Testes de Aplicativos Móveis (Mobile) com Emulador Android (Sprint 5)
+# Projeto: Testes de Aplicativos Móveis (Mobile) com Emulador Android Studio (Sprint 5)
 
 ## 📌 Sobre o Projeto
 Este projeto prático foi desenvolvido durante o bootcamp de Analista de QA da TripleTen Brasil. O foco central foi realizar a garantia de qualidade do aplicativo móvel "Urban Lunch", validando fluxos completos do usuário (End-to-End) — desde a seleção do local de coleta no mapa até a finalização e feedback do pedido — utilizando um ambiente emulado de smartphone. Todas as falhas críticas encontradas foram integradas e reportadas no Jira.
